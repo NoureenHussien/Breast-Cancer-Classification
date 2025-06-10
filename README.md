@@ -1,8 +1,4 @@
-# 🧪 NN_Cancer_Diagnosis_Internship  
 🔬 **Breast Cancer Classification with Neural Networks**
-
-This project is part of my internship at **Brainwave Matrix Solutions Pvt Ltd**.  
-*(Feel free to remove or change the internship name if not applicable)*
 
 ---
 
