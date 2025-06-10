@@ -43,19 +43,20 @@ An interactive machine learning project developed in a **Jupyter Notebook**, usi
 ## 📷 Preview
 
 ### Classification Report
-![Model Classification Report](Classification Report.png)
+![Model Classification Report](Classification_Report.png)
 
 ### Confusion Matrix  
-![Best Model Confusion Matrix](Confusion matrix.png)
+![Best Model Confusion Matrix](Confusion_matrix.png)
 
 ### ROC Curve   
-![Best Model ROC Curve](ROC Curve - Performance Evaluation.png)
+![Best Model ROC Curve](ROC_Curve_Performance_Evaluation.png)
 
 ### Decision Boundary  
-![Best Model Decision Boundary](Decision Boundary.png)
+![Best Model Decision Boundary](Decision_Boundary.png)
 
 ### SVM Accuracy Comparison  
-![Best Model SVM Accuracy Comparison](SVM Accuracy Comparison.png)
+![Best Model SVM Accuracy Comparison](SVM_Accuracy_Comparison.png)
+
 ---
 
 ## ▶️ How to Run
