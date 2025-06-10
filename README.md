@@ -1,1 +1,69 @@
-# Breast-Cancer-Classification
+# 🧪 NN_Cancer_Diagnosis_Internship  
+🔬 **Breast Cancer Classification with Neural Networks**
+
+This project is part of my internship at **Brainwave Matrix Solutions Pvt Ltd**.  
+*(Feel free to remove or change the internship name if not applicable)*
+
+---
+
+## 🧠 Overview
+
+An interactive machine learning project developed in a **Jupyter Notebook**, using:
+
+- **Pandas** for data manipulation  
+- **Scikit-learn** (MLPClassifier) for neural network modeling  
+- **Matplotlib/Seaborn** for visualization
+
+🎯 The goal is to classify breast cancer tumors as **malignant** or **benign** using Neural Networks and analyze performance across different architectures.
+
+---
+
+## 🚀 Features
+
+### 📥 Data Acquisition & Preprocessing
+- Loads the **Breast Cancer Wisconsin (Diagnostic)** dataset
+- Applies `StandardScaler` for robust feature scaling
+
+### 🧠 Neural Network Modeling
+- Implements **Multi-layer Perceptron (MLPClassifier)**  
+- Tests various hidden layer configurations & learning rates  
+- Tracks training and testing performance
+
+### 📊 Model Evaluation
+- Uses key metrics:
+  - `accuracy_score`
+  - `confusion_matrix`
+  - `classification_report`
+
+### 📈 Comparative Analysis
+- Visualizes results to identify the best performing modelذ
+
+---
+
+## 📷 Preview
+
+### Classification Report
+![Model Classification Report](Classification Report.png)
+
+### Confusion Matrix  
+![Best Model Confusion Matrix](Confusion matrix.png)
+
+### ROC Curve   
+![Best Model ROC Curve](ROC Curve - Performance Evaluation.png)
+
+### Decision Boundary  
+![Best Model Decision Boundary](Decision Boundary.png)
+
+### SVM Accuracy Comparison  
+![Best Model SVM Accuracy Comparison](SVM Accuracy Comparison.png)
+---
+
+## ▶️ How to Run
+
+- Make sure Python and Jupyter are installed on your system.
+
+- Install dependencies 
+  pip install -r requirements.txt
+
+- Launch the notebook
+  jupyter notebook Breast Cancer Classification.ipynb
