@@ -42,7 +42,7 @@ An interactive machine learning project developed in a **Jupyter Notebook**, usi
 ![Model Classification Report](Classification_Report.png)
 
 ### Confusion Matrix  
-![Best Model Confusion Matrix](Confusion_matrix.png)
+![Best Model Confusion Matrix](Confusion_Matrix.png)
 
 ### ROC Curve   
 ![Best Model ROC Curve](ROC_Curve_Performance_Evaluation.png)
